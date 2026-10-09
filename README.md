@@ -1,3 +1,8 @@
+# Calulator Patterns 
+
+finished 07-step6, do 08-step7 next time (Step 7: Test the behavior and reach 100% coverage)
+
+
 # CLI Calculator: OOP, Design Patterns, and Testing
 
 A short assignment book for NJIT IS218. Build a terminal calculator one small step at a time. Learn static, class, and instance methods; abstraction, inheritance, polymorphism, encapsulation, and composition; Factory, Command, and Strategy; and simple SOLID responsibilities.
