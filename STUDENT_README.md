@@ -33,3 +33,8 @@ Add your successful Actions run URL and confirm 100% line coverage.
 ## Coverage exclusions
 
 The starter excludes the abstract `Calculation.execute()` placeholder because it declares the contract and supplies no implementation. List and explain any other exclusions you add.
+
+calculator/__main__.py : The if __name__ == "__main__": entry point is excluded from coverage. This is because it only launches main if the CLI behaviour is directly tested.
+This should work, but I was running into problems, so I created a .coverage arc file, and included these lines:
+[run]
+omit = calculator/__main__.py
