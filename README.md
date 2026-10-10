@@ -1,6 +1,6 @@
 # Calulator Patterns 
 
-finished 07-step6, do 08-step7 next time (Step 7: Test the behavior and reach 100% coverage)
+made a change to check if the run actions upon pushes is working
 
 
 # CLI Calculator: OOP, Design Patterns, and Testing
